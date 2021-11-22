@@ -37,7 +37,7 @@ The languages and libaries used in the application:
 
 ## Installation
 
-To install no necessery dependencies just follow the deployed url link.
+To install no necessery dependencies just follow the deployment url link.
 
 ## Deployment
 
